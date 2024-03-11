@@ -3,6 +3,14 @@
     <channel>
         <title>UpdateAppExample</title>
         <item>
+            <title>1.0.8</title>
+            <pubDate>Mon, 11 Mar 2024 14:03:22 +0100</pubDate>
+            <sparkle:version>1.0.8.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.8/UpdateAppExample-1.0.8-x64.dmg" length="162968236" type="application/octet-stream" sparkle:edSignature="cNCHndPSxrvIaAhltWMvK3mwZgWM8zAFBNONtzBU6o8cNNBVmTEMgBDN6T1c3Jczmt+3P4DKwsgX2ZeYvcg6Cg=="/>
+        </item>
+        <item>
             <title>1.0.7</title>
             <pubDate>Mon, 11 Mar 2024 12:45:27 +0100</pubDate>
             <sparkle:version>1.0.7.1</sparkle:version>
