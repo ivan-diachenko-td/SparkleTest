@@ -3,6 +3,17 @@
     <channel>
         <title>UpdateAppExample</title>
         <item>
+            <title>1.0.10</title>
+            <pubDate>Mon, 11 Mar 2024 16:08:48 +0100</pubDate>
+            <sparkle:version>1.0.10.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.9/UpdateAppExample-1.0.10-x64.dmg" length="162978441" type="application/octet-stream" sparkle:edSignature="NleaE7xFCJX9JlSE6IzHrc6z5GsOR9J7YMcJDRve0A/rpR29yGOuCuvycxmagHr46rsYMLLMPY1L25/hsyUIBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.10/UpdateAppExample1.0.10.1-1.0.9.1.delta" sparkle:deltaFrom="1.0.9.1" length="264302" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="866048" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="e37GdPtT4/HSOoKeoRGxNx7K1GcF7UpQgaA0njgrBhtDpN6Tdi961EP+HWAv/vZcNYlfX2VlKQwG3hleoZjWDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.9</title>
             <pubDate>Mon, 11 Mar 2024 15:29:01 +0100</pubDate>
             <sparkle:version>1.0.9.1</sparkle:version>
