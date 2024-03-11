@@ -3,12 +3,23 @@
     <channel>
         <title>UpdateAppExample</title>
         <item>
+            <title>1.0.9</title>
+            <pubDate>Mon, 11 Mar 2024 15:29:01 +0100</pubDate>
+            <sparkle:version>1.0.9.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.9/UpdateAppExample-1.0.9-x64.dmg" length="162978564" type="application/octet-stream" sparkle:edSignature="u+x2/2BVc/iQToPaZsT/6fkWKbdpHsIgbQSnr0riIFV4pkILtek2nGn1YlC11BTrv4tu7CWBCrgdsxECU+7QBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.9/UpdateAppExample1.0.9.1-1.0.8.1.delta" sparkle:deltaFrom="1.0.8.1" length="472106" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="866048" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="v5fJwnsCwz5kkDTV6gOtimH+mCKLDRF470Cwi7iebmByVhApgIJ/CenORwfHl6nrWw/6ro/VNkT5UQM/OTL2Aw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.8</title>
             <pubDate>Mon, 11 Mar 2024 14:03:22 +0100</pubDate>
             <sparkle:version>1.0.8.1</sparkle:version>
             <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.8/UpdateAppExample-1.0.8-x64.dmg" length="162968236" type="application/octet-stream" sparkle:edSignature="cNCHndPSxrvIaAhltWMvK3mwZgWM8zAFBNONtzBU6o8cNNBVmTEMgBDN6T1c3Jczmt+3P4DKwsgX2ZeYvcg6Cg=="/>
+            <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.9/UpdateAppExample-1.0.8-x64.dmg" length="162968236" type="application/octet-stream" sparkle:edSignature="cNCHndPSxrvIaAhltWMvK3mwZgWM8zAFBNONtzBU6o8cNNBVmTEMgBDN6T1c3Jczmt+3P4DKwsgX2ZeYvcg6Cg=="/>
         </item>
         <item>
             <title>1.0.7</title>
