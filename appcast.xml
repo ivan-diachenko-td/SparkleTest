@@ -3,12 +3,20 @@
     <channel>
         <title>UpdateAppExample</title>
         <item>
+            <title>1.0.11</title>
+            <pubDate>Fri, 15 Mar 2024 17:17:00 +0100</pubDate>
+            <sparkle:version>1.0.11.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.11/UpdateAppExample-1.0.11-x64.dmg" length="162979918" type="application/octet-stream" sparkle:edSignature="C1G5n2zU15lIlHJRF3GX63N3HrmPirAauR6i3FDGI7ZYbxUQENltSK/nsySJBac7CbUJRD40Xxzu18WvyssRCg=="/>
+        </item>
+        <item>
             <title>1.0.10</title>
-            <pubDate>Fri, 15 Mar 2024 15:03:17 +0100</pubDate>
+            <pubDate>Fri, 15 Mar 2024 16:52:05 +0100</pubDate>
             <sparkle:version>1.0.10.1</sparkle:version>
             <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="UpdateAppExample-1.0.10-x64.dmg" length="162979213" type="application/octet-stream" sparkle:edSignature="nVcwLiWeNQZWoO/9HeiJzpfi73mF1RB0YHTemP5gWj4vgzv0swHnUBcLRobW/RPpjbAcS07RRwcvbbIMrJmpDQ=="/>
+            <enclosure url="UpdateAppExample-1.0.10-x64.dmg" length="162979806" type="application/octet-stream" sparkle:edSignature="ihL1mANaa8tEuAd+JI1kZNiK+mhElRQS4TVLtI/oariz0Fwgm5SskAG05UfgeQ5glFhC+X2qVy7ymce87FeKCA=="/>
         </item>
     </channel>
 </rss>
