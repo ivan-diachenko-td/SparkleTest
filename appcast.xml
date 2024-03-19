@@ -3,20 +3,20 @@
     <channel>
         <title>UpdateAppExample</title>
         <item>
+            <title>1.0.4</title>
+            <pubDate>Tue, 19 Mar 2024 15:27:38 +0100</pubDate>
+            <sparkle:version>1.0.4.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.4/UpdateAppExample-1.0.4-arm64.dmg" length="134871502" type="application/octet-stream" sparkle:edSignature="zUx1AaQET8wR5Xv4EsYmmRQZ8RRYrnpiSHcMfj3W6C8Z410b4SdI28qXa/b7pghUFoBX3AYJlvlcyqGciQm4Cw=="/>
+        </item>
+        <item>
             <title>1.0.3</title>
             <pubDate>Tue, 19 Mar 2024 14:31:19 +0100</pubDate>
             <sparkle:version>1.0.3.1</sparkle:version>
             <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.3/UpdateAppExample-1.0.3-arm64.dmg" length="134871579" type="application/octet-stream" sparkle:edSignature="x26SMBAtw0j11CbieRwtPqv1ynwaMeZ0htcMHF3koqEvP9fI7/h153P93VlDrfevCDcX+n5SpA/U/kAoZf2/Cw=="/>
-        </item>
-        <item>
-            <title>1.0.2</title>
-            <pubDate>Tue, 19 Mar 2024 14:04:01 +0100</pubDate>
-            <sparkle:version>1.0.2.1</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="UpdateAppExample-1.0.2-arm64.dmg" length="134871572" type="application/octet-stream" sparkle:edSignature="9tscspAGkVLB6JQDHaTJWH6FGPmRSWReZH6YJiHrCttQdWrnYx28nAKlDveuXGTN1RiLndXk4gWl8qVsLnLyAA=="/>
         </item>
     </channel>
 </rss>
