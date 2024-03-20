@@ -3,23 +3,23 @@
     <channel>
         <title>UpdateAppExample</title>
         <item>
-            <title>1.0.8</title>
-            <pubDate>Wed, 20 Mar 2024 13:22:48 +0100</pubDate>
-            <sparkle:version>1.0.8.1</sparkle:version>
-            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <title>1.0.9</title>
+            <pubDate>Wed, 20 Mar 2024 13:59:25 +0100</pubDate>
+            <sparkle:version>1.0.9.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="UpdateAppExample-1.0.8-arm64.dmg" length="134866695" type="application/octet-stream" sparkle:edSignature="pg6Zk50KoB8ukQjcJLQx/Hyyj/gMGWeCGYZHem5DL43k8Rh9YJNGo032Cbc5MB8bvHuj54rZEw4YyuBDqwNeAw=="/>
+            <enclosure url="UpdateAppExample-1.0.9-arm64.dmg" length="134866859" type="application/octet-stream" sparkle:edSignature="4ZH18/3wc/UVCg/Jrz93l93QaON/RtcNHM+IXOBz5nO5OwLCftrhNzJYocKudigQdjVAGmmS/hc/9CYMZm6kBA=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.8/UpdateAppExample1.0.8.1-1.0.7.1.delta" sparkle:deltaFrom="1.0.7.1" length="236158" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865456" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ql3AmPvkTYNp1CAneVkyARcZanCfgeuiO3BmzpiAE6h66z+RiXQgchNNIwcy4ozM6PmnxydIQVPJPNAA+PaDCg=="/>
+                <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.9/UpdateAppExample1.0.9.1-1.0.8.1.delta" sparkle:deltaFrom="1.0.8.1" length="166218" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865456" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="yY+89oGP1eANon0UnH8Im9iZsJCrpsffc/O6EwaZdi0Y5pjihj1mDRKhqKTX4ct9Au4WSBlPGBHtkfMfKe1qAw=="/>
             </sparkle:deltas>
         </item>
         <item>
-            <title>1.0.7</title>
-            <pubDate>Wed, 20 Mar 2024 13:06:48 +0100</pubDate>
-            <sparkle:version>1.0.7.1</sparkle:version>
-            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <title>1.0.8</title>
+            <pubDate>Wed, 20 Mar 2024 13:57:14 +0100</pubDate>
+            <sparkle:version>1.0.8.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="UpdateAppExample-1.0.7-arm64.dmg" length="134866825" type="application/octet-stream" sparkle:edSignature="udi7L1XPewNLFUWZpp62VUhE/Y/0L4hFGUb9PC5DiGMLaaA34bvpq/dh1BdtMEFvchk2bT+W7GSY8Rfy6it4DQ=="/>
+            <enclosure url="UpdateAppExample-1.0.8-arm64.dmg" length="134866758" type="application/octet-stream" sparkle:edSignature="2VnsuAhehDWlHd6VcYfJo/byOjEJTa5eJxoH+EkF9R7CWHb3ZBnLp+3mw1RyxquMEuMwLBFoNm/JCn6rddQEDw=="/>
         </item>
     </channel>
 </rss>
