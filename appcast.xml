@@ -4,11 +4,14 @@
         <title>UpdateAppExample</title>
         <item>
             <title>1.0.22</title>
-            <pubDate>Tue, 02 Apr 2024 16:10:21 +0200</pubDate>
+            <pubDate>Tue, 02 Apr 2024 16:15:13 +0200</pubDate>
             <sparkle:version>1.0.22.1</sparkle:version>
             <sparkle:shortVersionString>1.0.22</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="UpdateAppExample-1.0.21-arm64.dmg" length="134866543" type="application/octet-stream" sparkle:edSignature="7e7qjL0IK/RyEXX+dXsH53UmNmC7K6iYl1Tg1X59yh73//C0B7tUMDLJYSWbUcNPwwe1vT4k/i350xBr/Zc7AA=="/>
+            <enclosure url="UpdateAppExample-1.0.22-arm64.dmg" length="134866533" type="application/octet-stream" sparkle:edSignature="TPuEIAOz1cHw8PRPe8fy9CBenADZDXD83604KyS7pKGrVmNF4CxysX8HWna3hIgVYpz4XA8gkfP8jCntQrj4Dg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.22/UpdateAppExample1.0.22.1-1.0.21.1.delta" sparkle:deltaFrom="1.0.21.1" length="159558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865456" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="iq6R0tUdFZikBn40fCftsg4/+7bMIbR4tzut1nwB/15wHA4cMp+/+gxCgONhgvGDpEMk6Uuec/GArC71Z+bdAA=="/>
+            </sparkle:deltas>
         </item>
         <item>
             <title>1.0.21</title>
