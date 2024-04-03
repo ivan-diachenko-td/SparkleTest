@@ -10,7 +10,7 @@
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="UpdateAppExample-1.0.25-arm64.dmg" length="134874406" type="application/octet-stream" sparkle:edSignature="oFAMECj7ptnIZd8CD32aLF2caf2Wb8GcCS62W8JosFT8/pibnm1H89m/loEaKNM+LQRx5bxt+DjcMG7zWepnBQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.22/UpdateAppExample1.0.25.1-1.0.24.1.delta" sparkle:deltaFrom="1.0.24.1" length="161834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865456" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="z9xKODXfkkXqoYIuuX4mXgB8G5OLXf8krZj3fL8FOi9OIP9eR559e4vqg04b/ouoecxZVXcelDTB54anLM8EDA=="/>
+                <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.25/UpdateAppExample1.0.25.1-1.0.24.1.delta" sparkle:deltaFrom="1.0.24.1" length="161834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865456" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="z9xKODXfkkXqoYIuuX4mXgB8G5OLXf8krZj3fL8FOi9OIP9eR559e4vqg04b/ouoecxZVXcelDTB54anLM8EDA=="/>
             </sparkle:deltas>
         </item>
         <item>
