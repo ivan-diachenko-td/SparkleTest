@@ -10,8 +10,9 @@
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="UpdateAppExample-1.0.23-arm64.dmg" length="134866928" type="application/octet-stream" sparkle:edSignature="EkXMd9p/+ujVr0oUDHbS0ftwPXn87frY4S/B6uH6H/Puk+IcghugmvpqQHuBMTXzmsdfIE9lwnMjX9uviXvfAw=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.23/UpdateAppExample1.0.23.1-1.0.22.1.delta" sparkle:deltaFrom="1.0.22.1" length="388538" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865456" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="vy4618KGay7LD5+YNEuVdM5y3v7Xt3KaKkWWAZi+PJo5uQyil7gUuD5vWD4w07U6O8ze/ujYThxW4+IpksCuAw=="/>
-                <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.23/UpdateAppExample1.0.23.1-1.0.21.1.delta" sparkle:deltaFrom="1.0.21.1" length="403022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865456" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="4M/6RJn2ArowuYUWiaq7oGSXPpR/C+aLSOOc3+jTC3a/D75b279PF0G86zWbGiLvC7kE4K016o1UGLW7vNVYCw=="/>
+                https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.22/UpdateAppExample1.0.23.1-1.0.22.1.delta
+                <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.22/UpdateAppExample1.0.23.1-1.0.22.1.delta" sparkle:deltaFrom="1.0.22.1" length="388538" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865456" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="vy4618KGay7LD5+YNEuVdM5y3v7Xt3KaKkWWAZi+PJo5uQyil7gUuD5vWD4w07U6O8ze/ujYThxW4+IpksCuAw=="/>
+                <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.22/UpdateAppExample1.0.23.1-1.0.21.1.delta" sparkle:deltaFrom="1.0.21.1" length="403022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865456" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="4M/6RJn2ArowuYUWiaq7oGSXPpR/C+aLSOOc3+jTC3a/D75b279PF0G86zWbGiLvC7kE4K016o1UGLW7vNVYCw=="/>
             </sparkle:deltas>
         </item>
         <item>
