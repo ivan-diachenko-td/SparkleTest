@@ -4,19 +4,11 @@
         <title>UpdateAppExample</title>
         <item>
             <title>1.0.28</title>
-            <pubDate>Thu, 02 May 2024 13:02:18 +0200</pubDate>
+            <pubDate>Thu, 02 May 2024 17:45:02 +0200</pubDate>
             <sparkle:version>1.0.28.1</sparkle:version>
             <sparkle:shortVersionString>1.0.28</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.28/UpdateAppExample-1.0.28-arm64.dmg" length="134887164" type="application/octet-stream" sparkle:edSignature="ssnvNbmh8cBc3ccqo4Sk5vP2fd9kVKqqvlg2/ZwhuHh1i+xYnNIpqn4AOQu2i+3fUfICG9Vd5iVg6IVcPqZjBw=="/>
-        </item>
-        <item>
-            <title>1.0.27</title>
-            <pubDate>Thu, 02 May 2024 12:54:20 +0200</pubDate>
-            <sparkle:version>1.0.27.1</sparkle:version>
-            <sparkle:shortVersionString>1.0.27</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="UpdateAppExample-1.0.27-arm64.dmg" length="134887194" type="application/octet-stream" sparkle:edSignature="SLErj5wbal5QNhLig5BPDECclu3FRZ+15IEivcm3yStAdK7/wn2LvdWGbPJqMJxUFXuZCe1Qa0b3iy31My4gCw=="/>
+            <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.28/UpdateAppExample-1.0.28-arm64.dmg" length="135765204" type="application/octet-stream" sparkle:edSignature="ldSOWb0uRx8lNNyINqPtvM4R4YsmKHn8M47JLcmtxulj10yEGBlG66UmuLLcDiMgvU6chQxVGgFAA5ICBbj6Cw=="/>
         </item>
     </channel>
 </rss>
