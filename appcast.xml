@@ -3,23 +3,20 @@
     <channel>
         <title>UpdateAppExample</title>
         <item>
+            <title>1.0.28</title>
+            <pubDate>Thu, 02 May 2024 13:02:18 +0200</pubDate>
+            <sparkle:version>1.0.28.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="UpdateAppExample-1.0.28-arm64.dmg" length="134887164" type="application/octet-stream" sparkle:edSignature="ssnvNbmh8cBc3ccqo4Sk5vP2fd9kVKqqvlg2/ZwhuHh1i+xYnNIpqn4AOQu2i+3fUfICG9Vd5iVg6IVcPqZjBw=="/>
+        </item>
+        <item>
             <title>1.0.27</title>
-            <pubDate>Wed, 03 Apr 2024 22:08:39 +0200</pubDate>
+            <pubDate>Thu, 02 May 2024 12:54:20 +0200</pubDate>
             <sparkle:version>1.0.27.1</sparkle:version>
             <sparkle:shortVersionString>1.0.27</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="UpdateAppExample-1.0.27-arm64.dmg" length="134874836" type="application/octet-stream" sparkle:edSignature="sOhSgN5GpXNs+Laox/YveQUX9oPNFFxeL2BkyxzqmGV0I4ohzUCaHvcpQB1By1AMb65ttUSekjYUt7f39QOUCQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.27/UpdateAppExample1.0.27.1-1.0.26.1.delta" sparkle:deltaFrom="1.0.26.1" length="160410" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865456" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="CtDnGtWDGOju10vQX694klapUoUQrLi6EbY+StxyxzZ35SgR72rIjeZMX6R86JmSGUwqDO9ReycpUhgOb4BQAQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.26</title>
-            <pubDate>Wed, 03 Apr 2024 22:06:02 +0200</pubDate>
-            <sparkle:version>1.0.26.1</sparkle:version>
-            <sparkle:shortVersionString>1.0.26</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="UpdateAppExample-1.0.26-arm64.dmg" length="134874909" type="application/octet-stream" sparkle:edSignature="qcNiuIYFCFN86ux1vk1pKMcYIeUBbIc0g/CHKyO+WrZenBDQdCXQG6ugAYDWQGSA27ZRMma55FS3HQkLEIdwDA=="/>
+            <enclosure url="UpdateAppExample-1.0.27-arm64.dmg" length="134887194" type="application/octet-stream" sparkle:edSignature="SLErj5wbal5QNhLig5BPDECclu3FRZ+15IEivcm3yStAdK7/wn2LvdWGbPJqMJxUFXuZCe1Qa0b3iy31My4gCw=="/>
         </item>
     </channel>
 </rss>
