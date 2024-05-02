@@ -8,7 +8,7 @@
             <sparkle:version>1.0.28.1</sparkle:version>
             <sparkle:shortVersionString>1.0.28</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="UpdateAppExample-1.0.28-arm64.dmg" length="134887164" type="application/octet-stream" sparkle:edSignature="ssnvNbmh8cBc3ccqo4Sk5vP2fd9kVKqqvlg2/ZwhuHh1i+xYnNIpqn4AOQu2i+3fUfICG9Vd5iVg6IVcPqZjBw=="/>
+            <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.28/UpdateAppExample-1.0.28-arm64.dmg" length="134887164" type="application/octet-stream" sparkle:edSignature="ssnvNbmh8cBc3ccqo4Sk5vP2fd9kVKqqvlg2/ZwhuHh1i+xYnNIpqn4AOQu2i+3fUfICG9Vd5iVg6IVcPqZjBw=="/>
         </item>
         <item>
             <title>1.0.27</title>
