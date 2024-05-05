@@ -4,11 +4,12 @@
         <title>UpdateAppExample</title>
                 <item>
             <title>1.0.28</title>
-            <pubDate>Sun, 05 May 2024 15:20:44 +0200</pubDate>
+            <pubDate>Sun, 05 May 2024 20:47:47 +0200</pubDate>
             <sparkle:version>1.0.28.1</sparkle:version>
             <sparkle:shortVersionString>1.0.28</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.28/UpdateAppExample-1.0.28-arm64.dmg" length="166083489" type="application/octet-stream" sparkle:edSignature="JTyWegh0IsdyBFCaBJjAS/SoLVDP2rwnR+adBmfFKdcENDNC2CelAqoQ6EaDSH6oMWkUOKW+mYkSQzZYFefQDw=="/>
+            <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.28/UpdateAppExample-1.0.28-arm64.dmg" length="166079248" type="application/octet-stream" sparkle:edSignature="Z1ouKpFamkrG9Xy+i7UIwmDK+3VZbG5/8Y1Qb2aRC7cKD7D84hOapPkgaUq2iA815kUAYCaaQZPckQ7tEi8rDA=="/>
         </item>
+
     </channel>
 </rss>
