@@ -2,13 +2,13 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>UpdateAppExample</title>
-           <item>
+                <item>
             <title>1.0.28</title>
-            <pubDate>Sun, 05 May 2024 10:21:25 +0200</pubDate>
+            <pubDate>Sun, 05 May 2024 15:20:44 +0200</pubDate>
             <sparkle:version>1.0.28.1</sparkle:version>
             <sparkle:shortVersionString>1.0.28</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.28/UpdateAppExample-1.0.28-arm64.dmg" length="135778041" type="application/octet-stream" sparkle:edSignature="rJ9Z/1AymMDG85S3QRIVgX41GaCxmrc4LnYXVDs/j+kqY7tzg0G8OIkJy50EqFq/U8xZWmN45qVpb1XIYEChDQ=="/>
+            <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v1.0.28/UpdateAppExample-1.0.28-arm64.dmg" length="166083489" type="application/octet-stream" sparkle:edSignature="JTyWegh0IsdyBFCaBJjAS/SoLVDP2rwnR+adBmfFKdcENDNC2CelAqoQ6EaDSH6oMWkUOKW+mYkSQzZYFefQDw=="/>
         </item>
     </channel>
 </rss>
