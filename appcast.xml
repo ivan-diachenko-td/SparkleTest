@@ -8,7 +8,7 @@
             <sparkle:version>0.1.1.1</sparkle:version>
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="Pure-Photos-0.1.1-arm64.dmg" length="137991061" type="application/octet-stream" sparkle:edSignature="WroW2w8FeutH6/64wP3CZ7FcWA8LlWtOYMMKh6oby/GZBPOsH7NXlNKk+LM27EmDhMPz+wGKPoGgjNvS/rYnCQ=="/>
+            <enclosure url="https://github.com/ivan-diachenko-td/SparkleTest/releases/download/v0.1.1/Pure-Photos-0.1.1-arm64.dmg" length="137991061" type="application/octet-stream" sparkle:edSignature="WroW2w8FeutH6/64wP3CZ7FcWA8LlWtOYMMKh6oby/GZBPOsH7NXlNKk+LM27EmDhMPz+wGKPoGgjNvS/rYnCQ=="/>
         </item>
     </channel>
 </rss>
